@@ -1,5 +1,5 @@
 # 💫 SWAPNIL FULPAGARE:
-👋 Hey there! I'm [Swapnil Fulpagare]<br>💻 B.Tech in Computer Engineering (Graduating June 2025)<br>🚀 Passionate about Web Development, AI, and Data Visualization<br>🔧 Skilled in Python, JavaScript, React, Power BI, MySQL, MongoDB<br>📊 Love turning data into stories with dashboards & insights<br>🌱 Currently learning Full Stack Development MERN<br>💡 Building cool projects like Weather Apps, Clones, and Dashboards<br>🤝 Open to collaboration on Web Apps & Data Projects<br>⚡ Fun fact: I can debug code faster when coffee is involved ☕
+👋 Hey there! I'm Swapnil Fulpagare<br>💻 B.Tech in Computer Engineering (Graduating June 2025)<br>🚀 Passionate about Web Development, AI, and Data Visualization<br>🔧 Skilled in Python, JavaScript, React, Power BI, MySQL, MongoDB<br>📊 Love turning data into stories with dashboards & insights<br>🌱 Currently learning Full Stack Development MERN<br>💡 Building cool projects like Weather Apps, Clones, and Dashboards<br>🤝 Open to collaboration on Web Apps & Data Projects<br>⚡ Fun fact: I can debug code faster when coffee is involved ☕
 
 
 ## 🌐 Socials:
